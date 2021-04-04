@@ -69,7 +69,7 @@ Here is an exploratory visualization of the data set:
 
 first i will display some random images which was provied in the data set
 
-![alt text][image1]
+![Screenshot](writeup_images/Image_Visualization.png)
 
 
 then i have plotted a bar graph to represent the distribution of labels in each data set :
